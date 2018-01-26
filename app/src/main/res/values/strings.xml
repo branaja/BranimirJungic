@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BJungic</string>
+    <string name="download">Preuzmi sliku!</string>
+    <string name="ispis">Ispiši bazu</string>
+    <string name="brisiSlike">ID slike koju želiš obrisati</string>
+    <string name="brisiPeriod">ID perioda koji želiš obrisati</string>
+    <string name="bttnBrisi">Obriši</string>
+    <string name="picasso">Ispiši jednu Picassovu sliku</string>
+</resources>
